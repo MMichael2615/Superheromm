@@ -1,0 +1,51 @@
+/* Author: Michael Mecklenburg */
+/* Date: October 10, 2022 */
+/* Course: CPTR 245 */
+/* Assignment: Superhero 1.1 */
+.footer {
+  font-size: 12px;
+  color: gray;
+  height: 30px;
+  text-align: center;
+}
+
+body {
+  font-family: "Times New Roman";
+  color: white;
+  background-color: #000000;
+  line-height: 25px;
+}
+em {
+  text-decoration: underline;
+}
+
+.header {
+  background-color: #485461;
+  font-size: 20px;
+  background-repeat: repeat-x;
+  height: auto;
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+
+.rcorners {
+  border-radius: 30px;
+  background: #485461;
+  padding: 2px;
+  border-style: dashed;
+  border-color: yellow;
+  border-width: 2px;
+}
+
+h2 {
+  background-image: url(images/grey.jpeg);
+  color: #000;
+  text-align: center;
+  font-family: Batman, "Times New Roman", Times, serif;
+}
+
+@font-face {
+  font-family: "Batman";
+  src: url("/AmaticSC-Regular.ttf");
+}
