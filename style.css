@@ -42,7 +42,7 @@ h2 {
   background-image: url(images/grey.jpeg);
   color: #000;
   text-align: center;
-  font-family: Batman, "Times New Roman", Times, serif;
+  font-family: "Batman", "Times New Roman", Times, serif;
 }
 
 @font-face {
